@@ -14,7 +14,7 @@ If you're interested in more of why we wrote the brief, check out <http://blog.u
 
 ####License
 
-We're posting the source code to our brief, written in LaTeX, publicly because there are pretty much no sources of good style guides in LaTeX for formal federal legal work. I (Brendan O'Connor) had to do it all from scratch, and it took a really long time (maybe 4-6 hours)---and I know and love LaTeX. The brief is its own document; it's not a fully-generalized LaTeX style class, but it should give you an idea of how to proceed. I am releasing the source code under the ZLib license; use it, but if you lose your case because you followed our interpretation of the Federal Rules of Appellate Procedure's Rule 32 (Form of Briefs), that's not my issue.
+We're posting the source code to our brief, written in LaTeX, publicly because there are pretty much no sources of good style guides in LaTeX for formal federal legal work. I (Brendan O'Connor) had to do the whole formatting thing (including how to do tables of authorities and statutes) from scratch, and it took a really long time (maybe 4-6 hours)---and I know and love LaTeX. The brief is its own document; it's not a fully-generalized LaTeX style class, but it should give you an idea of how to proceed. I am releasing the source code under the [ZLib license](http://www.gzip.org/zlib/zlib_license.html); use it, but if you lose your case because you followed our interpretation of the Federal Rules of Appellate Procedure's Rule 32 (Form of Briefs), that's not my issue.
 
 If you do use it, though, and it works for you, please ping me to let me know; that will make me happy.
 
