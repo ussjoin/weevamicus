@@ -1,5 +1,10 @@
-Brief of Meredith Patterson, Brendan O'Connor, Sergey Bratus, Gabriella Coleman, Peyton Engel, Matthew Green, Dan Hirsch, Dan Kaminsky, Samuel Liles, Shane MacDougall, Brian Martin, C. Thomas, and Peiter Zatko as Amici Curiae Supporting Appellant
-============
+###Brief of Meredith Patterson, Brendan O'Connor, Sergey Bratus, Gabriella Coleman, Peyton Engel, Matthew Green, Dan Hirsch, Dan Kaminsky, Samuel Liles, Shane MacDougall, Brian Martin, C. Thomas, and Peiter Zatko as Amici Curiae Supporting Appellant
+
+####Read It!
+
+If you just want to read the brief, click on the [Releases](https://github.com/ussjoin/weevamicus/releases) button above.
+
+####About
 
 This is the brief, drafted over the course of April-July 2013, for Andrew Auernheimer, AKA Weev, AKA @Rabite on Twitter. Led by Meredith Patterson, the initial group came together because we, as security researchers, are frankly terrified at the precedent set by the prosecution of Andrew Auernheimer for accessing data that AT&T *made public on its website*.
 
@@ -7,9 +12,13 @@ An amicus is short for *amicus curiae*, or friend of the court; the plural is *a
 
 If you're interested in more of why we wrote the brief, check out <http://blog.ussjoin.com/>, which will have a complete post on what the issue is and why we care.
 
+####License
+
 We're posting the source code to our brief, written in LaTeX, publicly because there are pretty much no sources of good style guides in LaTeX for formal federal legal work. I (Brendan O'Connor) had to do it all from scratch, and it took a really long time (maybe 4-6 hours)---and I know and love LaTeX. The brief is its own document; it's not a fully-generalized LaTeX style class, but it should give you an idea of how to proceed. I am releasing the source code under the ZLib license; use it, but if you lose your case because you followed our interpretation of the Federal Rules of Appellate Procedure's Rule 32 (Form of Briefs), that's not my issue.
 
 If you do use it, though, and it works for you, please ping me to let me know; that will make me happy.
+
+####Signature
 
 ---Brendan O'Connor, on behalf of the amici:
 
