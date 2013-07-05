@@ -8,9 +8,9 @@ If you just want to read the brief, click on the [Releases](https://github.com/u
 
 This is the brief, drafted over the course of April-July 2013, for Andrew Auernheimer, AKA Weev, AKA @Rabite on Twitter. Led by Meredith Patterson, the initial group came together because we, as security researchers, are frankly terrified at the precedent set by the prosecution of Andrew Auernheimer for accessing data that AT&T *made public on its website*.
 
-An amicus is short for *amicus curiae*, or friend of the court; the plural is *amici curiae*. An amicus brief, then, is a kind of letter to the court, asking them to take into account the perspective of some group that isn't party to the litigation---which in the case of a criminal case, means someone who isn't the defendant or the government. In this case, the perspective is that of the independent security researchers who are affected.
+Amicus is short for *amicus curiae*, or friend of the court; the plural is *amici curiae*. An amicus brief, then, is a kind of letter to the court, asking them to take into account the perspective of some group that isn't party to the litigation---which in the case of a criminal case, means someone who isn't the defendant or the government. In this case, the perspective is that of the independent security researchers who are affected.
 
-If you're interested in more of why we wrote the brief, check out <http://blog.ussjoin.com/>, which will have a complete post on what the issue is and why we care.
+If you're interested in more of why we wrote the brief, check out <http://blog.ussjoin.com/2013/07/amicus-brief-for-weev.html>, which is a complete post on what the issue is and why we care.
 
 ####License
 
